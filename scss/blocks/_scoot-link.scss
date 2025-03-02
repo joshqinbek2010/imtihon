@@ -1,0 +1,11 @@
+.scoot-link{
+    padding: 15px 36px;
+    background-color: $orange;
+    border: 2px solid $orange;
+    transition: 1000;
+    color: white;
+    &:hover{
+        color: $orange;
+        background-color: transparent;
+    }
+}

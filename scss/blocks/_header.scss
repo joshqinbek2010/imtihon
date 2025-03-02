@@ -1,0 +1,15 @@
+@keyframes hamburger {
+    0%{
+        left: -100px;
+    }
+    100%{
+        top: 80px;
+    }
+}
+.header {
+    background-color: white;
+}
+
+.header__container {
+    padding: 20px;
+}
